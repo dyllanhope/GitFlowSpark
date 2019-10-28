@@ -35,7 +35,7 @@ git branch the_feature
 git checkout the_feature
 ```
 
-Do your work on the featire branch.
+Do your work on the feature branch.
 
 Once done add & commit your changes onto the feature branch and then push it to the central repo.
 
